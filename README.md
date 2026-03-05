@@ -6,8 +6,6 @@ The **Pipex** project is a deep dive into the inner workings of the UNIX operati
 
 This project focuses on **process creation**, **pipes**, and **file descriptor redirection**.
 
-> "Understanding how data flows between processes is the first step toward building a shell."
-
 ---
 
 ## 🛠️ The Logic
